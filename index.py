@@ -246,11 +246,11 @@ def set_bg_from_url(url, opacity=1):
         </a>
         </div>
     
-        <h3>Developer Team</h3>
-        <ul>
-        <li>stuti</li>
-        <li>hamsika</li>
-        </ul>
+        # <h3>Developer Team</h3>
+        # <ul>
+        # <li>stuti</li>
+        # <li>hamsika</li>
+        # </ul>
     </footer>
     """
     st.markdown(footer, unsafe_allow_html=True)
