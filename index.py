@@ -238,7 +238,7 @@ def set_bg_from_url(url, opacity=1):
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20" style="margin-right: 8px">
         </a>
             <p style="font-size:1.1rem;">
-                Rights Reserved as Nithin U
+                Rights Reserved as Stuti U
                 &nbsp;
             </p>
         <a href="https://github.com/nithinu2802" target="_blank">
