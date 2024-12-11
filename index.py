@@ -248,9 +248,8 @@ def set_bg_from_url(url, opacity=1):
     
         <h3>Developer Team</h3>
         <ul>
-            <li> Stuti agrawal</li>
-            <li>Hamsika</li>
-         
+        <li>stuti</li>
+        <li>hamsika</li>
         </ul>
     </footer>
     """
