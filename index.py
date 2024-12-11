@@ -234,24 +234,23 @@ def set_bg_from_url(url, opacity=1):
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
     <footer>
         <div style='visibility: visible;margin-top:7rem;justify-content:center;display:flex;'>
-        <a href="https://www.linkedin.com/in/nithinu" target="_blank">
+        <a href="https://www.linkedin.com/in/stuti-agrawal-48918b27b" target="_blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20" style="margin-right: 8px">
         </a>
             <p style="font-size:1.1rem;">
-                Rights Reserved as Stuti U
+                Rights Reserved to Stuti & Hamsika 
                 &nbsp;
             </p>
-        <a href="https://github.com/nithinu2802" target="_blank">
+        <a href="https://github.com/Stutii25" target="_blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Logo" width="20" height="20">
         </a>
         </div>
-       <b> <h1>PROJECT GUIDED BY Mrs. KALPANA V</h1></b>
+    
         <h3>Developer Team</h3>
         <ul>
-            <li>Muhilan P</li>
-            <li>Nithin U</li>
-            <li>Rohan Chakaravarthi V</li>
-            <li>Sharan Shakthi G</li>
+            <li> Stuti agrawal</li>
+            <li>Hamsika</li>
+         
         </ul>
     </footer>
     """
